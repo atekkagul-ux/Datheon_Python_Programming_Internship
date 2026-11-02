@@ -27,7 +27,7 @@ class HangmanApp:
         
         # Outer wrapper to keep the card nicely centered and spacious
         outer_frame = tk.Frame(root, bg="#0c0817")
-        outer_frame.pack(fill=tk.BOTH, expand=True, padx=12, pady=12)
+        outer_frame.pack(fill=tk.BOTH, expand=True, padx=10, pady=10)
 
         # Main Card Container Frame
         self.card_frame = tk.Frame(outer_frame, bg="#151024", bd=0)
@@ -102,14 +102,15 @@ class HangmanApp:
         row = 0
         col = 0
         for l in letters:
+            # width=2 aur padx=1 set kiya hai taaki saare letters screen mein fit aayein
             btn = tk.Button(self.keyboard_frame, text=l.upper(), font=("Helvetica", 9, "bold"), 
-                            width=3, height=1, bg="#2d3748", fg="#ffffff", 
+                            width=2, height=1, bg="#2d3748", fg="#ffffff", 
                             activebackground="#ffd166", activeforeground="#1a153b",
                             bd=0, command=lambda char=l: self.make_guess(char))
-            btn.grid(row=row, column=col, padx=2, pady=2)
+            btn.grid(row=row, column=col, padx=1, pady=2)
             self.key_buttons[l] = btn
             col += 1
-            if col > 6:  # 7 columns per row for balanced card layout
+            if col > 6:  # 7 columns per row
                 col = 0
                 row += 1
 
@@ -194,4 +195,3 @@ if __name__ == "__main__":
     root = tk.Tk()
     app = HangmanApp(root)
     root.mainloop()
-
