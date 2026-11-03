@@ -34,7 +34,6 @@ Welcome to my Python portfolio! This repository features two practical projects 
 ## 🚀 How to Run
 1. Clone or download this repository.
 2. Open the script in your Python environment (e.g., Pydroid 3).
-3. 
      ```
 
 ---
