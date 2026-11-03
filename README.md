@@ -45,5 +45,13 @@ Welcome to my Python portfolio! This repository features two practical projects 
      ```
 
 ---
+## 📸 Project Outputs
+
+### Hangman Game Output
+![Hangman Output](hangman_output.jpg)
+
+### File Organizer GUI Output
+![File Organizer Output](organizer_output.jpg)
+
 ⭐ *Feel free to explore the code and share your feedback!*
 
