@@ -53,7 +53,7 @@ Welcome to my Python portfolio! This repository features three practical project
 
 ### 3. Chatbot Execution Till End
 #### Initial Interaction & Core Queries
-![Chat Flow](chatbot-demo.jpg)
+![Chat Flow Output](chatbot-demo.jpg)
 
 
 ---
