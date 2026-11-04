@@ -49,7 +49,7 @@ Welcome to my Python portfolio! This repository features three practical project
 ![Hangman Output](hangman_output.jpg)
 
 ### 2. File Organizer GUI Output
-![File Organizer Output](file-organizer.jpg)
+![File Organizer Output](organizer_output.jpg)
 
 ### 3. Chatbot Execution Till End
 #### Initial Interaction & Core Queries
