@@ -45,18 +45,17 @@ Welcome to my Python portfolio! This repository features three practical project
 
 ## 📸 Project Outputs
 
-### Hangman Game Output
-*(Insert Hangman Image here)*
+### 1. Hangman Game Output
+![Hangman Output](hangman-demo.jpg)
 
-### File Organizer GUI Output
-*(Insert File Organizer Image here)*
+### 2. File Organizer GUI Output
+![File Organizer Output](file-organizer-demo.jpg)
 
-### 📸 Chatbot Execution
-
-#### 1. Initial Interaction & Core Queries
+### 3. Chatbot Execution
+#### Initial Interaction & Core Queries
 ![Chat Flow Part 1](chatbot-demo-1.jpg)
 
-#### 2. Further Queries & Exit Flow
+#### Further Queries & Exit Flow
 ![Chat Flow Part 2](chatbot-demo-2.jpg)
 
 ---
