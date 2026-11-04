@@ -45,5 +45,14 @@ Welcome to my Python portfolio! This repository features two practical projects 
 ### File Organizer GUI Output
 ![File Organizer Output](organizer_output.jpg)
 
+## 📸 Chatbot Execution
+
+### 1. Initial Interaction & Core Queries
+![Chat Flow Part 1](chatbot-demo-1.jpg)
+
+### 2. Further Queries & Exit Flow
+![Chat Flow Part 2](chatbot-demo-2.jpg)
+
+
 ⭐ *Feel free to explore the code and share your feedback!*
 
